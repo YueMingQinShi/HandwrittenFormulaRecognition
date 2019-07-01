@@ -1,1 +1,1 @@
-# handwritten-formula-recognition
+# HandwrittenHormulaRecognition
