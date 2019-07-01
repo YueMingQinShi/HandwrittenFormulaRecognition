@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
     path('upload', views.upload),
-    path('handwrite', views.handwrite),
+    path('hand_write', views.hand_write),
 ]
